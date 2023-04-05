@@ -7,7 +7,7 @@
         "tiles": [
           "index4"
         ],
-        "winline": 3,
+        "winline": [1,2,6],
         "id": 1
       },
       {
@@ -18,7 +18,7 @@
           "index6",
           "index2"
         ],
-        "winline": 1,
+        "winline": [10, 17, 18],
         "id": 2
       },
       {
@@ -29,7 +29,7 @@
           "index1",
           "index2"
         ],
-        "winline": 1,
+        "winline": [2, 9, 12],
         "id": 3
       }
     ]
